@@ -6,6 +6,7 @@ public class JeinTalk{
 		
 		System.out.println("주지찬이 한번 더 추가한 라인 입니다.");
 		System.out.println("Test01");
+		System.out.println("Test02");
 	}
 }
 
